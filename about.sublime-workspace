@@ -1,0 +1,326 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"depen",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/FemmeVictoria/Library/Application Support/Sublime Text 3/Packages/User/LiveStyle.sublime-settings",
+		"/Users/FemmeVictoria/Desktop/TreeHouse Portfolio /about.html",
+		"/Users/FemmeVictoria/Desktop/TreeHouse Portfolio /main.css",
+		"/Users/FemmeVictoria/Desktop/main.css",
+		"/Users/FemmeVictoria/Desktop/git/WomenWhoCodeChallenge/website/*",
+		"/Users/FemmeVictoria/Desktop/git/WomenWhoCodeChallenge/website/Unmerged",
+		"/Users/FemmeVictoria/Desktop/git/WomenWhoCodeChallenge/website/app/models/network.rb",
+		"/Users/FemmeVictoria/Desktop/git/WomenWhoCodeChallenge/website/path",
+		"/Users/FemmeVictoria/Desktop/git/WomenWhoCodeChallenge/website/db/schema.rb",
+		"/Users/FemmeVictoria/Desktop/git/buisness/3dswag/swag3d/app/controllers/page_controller.rb",
+		"/Users/FemmeVictoria/Desktop/git/buisness/3dswag/swag3d/app/views/sessions/new.html.erb",
+		"/Users/FemmeVictoria/Desktop/git/buisness/3dswag/swag3d/Gemfile",
+		"/Users/FemmeVictoria/Desktop/git/buisness/3dswag/swag3d/app/models/user.rb",
+		"/Users/FemmeVictoria/Desktop/git/buisness/3dswag/swag3d/app/controllers/sessions_controller.rb",
+		"/Users/FemmeVictoria/Desktop/git/buisness/3dswag/swag3d/app/controllers/users_controller.rb",
+		"/Users/FemmeVictoria/Desktop/git/buisness/3dswag/swag3d/app/views/users/new.html.erb",
+		"/Users/FemmeVictoria/Desktop/git/projects/scout-app/README.md",
+		"/Users/FemmeVictoria/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/FemmeVictoria/Library/Application Support/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/Users/FemmeVictoria/Library/Application Support/Sublime Text 3/Packages/User/bh_tag.sublime-settings",
+		"/Users/FemmeVictoria/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/FemmeVictoria/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/Users/FemmeVictoria/Desktop/dom.html",
+		"/Users/FemmeVictoria/Desktop/JSTrackTreeHouse/FirstLesson",
+		"/Users/FemmeVictoria/Desktop/git/projects/noteapp/notenote/config/environments/production.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/noteapp/notenote/config/environments/development.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/noteapp/notenote/Gemfile",
+		"/Users/FemmeVictoria/Desktop/git/projects/noteapp/notenote/app/models/note.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/noteapp/notenote/app/views/welcome/index.html.haml",
+		"/Users/FemmeVictoria/Desktop/git/projects/noteapp/notenote/app/views/notes/_form.html.haml",
+		"/Users/FemmeVictoria/Desktop/git/projects/noteapp/notenote/app/views/notes/new.html.haml",
+		"/Users/FemmeVictoria/Desktop/git/projects/noteapp/notenote/config/routes.rb",
+		"/Users/FemmeVictoria/Documents/CurrentPortfolio/victoriamoser.html",
+		"/Users/FemmeVictoria/Documents/CurrentPortfolio/victoriamoser.css",
+		"/Users/FemmeVictoria/Desktop/Wyncode/PracticingJS",
+		"/Users/FemmeVictoria/Desktop/SignIn.css",
+		"/Users/FemmeVictoria/Desktop/RegisterSignIn.html",
+		"/Users/FemmeVictoria/Desktop/seeds.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/jsserver/public/practice.js",
+		"/Users/FemmeVictoria/Desktop/git/projects/jsserver/public/hello.js",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/views/users/index.html.erb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/models/user.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/controllers/page_controller.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/controllers/users_controller.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/views/startups/index.html.erb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/views/users/admin_panel.html.erb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/db/schema.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/views/layouts/application.html.erb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/views/startups/destroy.html.erb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/views/investors/destroy.html.erb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/controllers/startups_controller.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/controllers/investors_controller.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/controllers/application_controller.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/views/investors/new.html.erb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/views/investors/index.html.erb",
+		"/Users/FemmeVictoria/Desktop/git/projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/sample_app/Gemfile",
+		"/Users/FemmeVictoria/Desktop/git/projects/sample_app/config/routes.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/sample_app/README.md",
+		"/Users/FemmeVictoria/Desktop/git/projects/sample_app/app/controllers/application_controller.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/views/sessions/new.html.erb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/db/migrate/20160729230859_add_admin_to_user.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/views/investors/show.html.erb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/db/migrate/20160729234458_create_investors.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/db/migrate/20160729234144_create_startups.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/models/investor.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/views/startups/show.html.erb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/models/startup.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/models/application_record.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/views/page/index.html.erb",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/assets/javascripts/map.js",
+		"/Users/FemmeVictoria/Desktop/git/projects/MiamiMade/app/views/startups/_form.html.erb",
+		"/Users/FemmeVictoria/Desktop/git/projects/Test1/config/routes.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/Test1/app/controllers/users_controller.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/Test1/app/controllers/application_controller.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/Test1/Gemfile",
+		"/Users/FemmeVictoria/Desktop/git/projects/Test1/app/models/investor.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/Test1/app/models/user.rb",
+		"/Users/FemmeVictoria/Desktop/git/projects/Test1/app/models/startup.rb",
+		"/Users/FemmeVictoria/Desktop/exigo-free-html5-creative-portfolio-template/assets/js/vendor/jquery-1.11.2.min.js",
+		"/Users/FemmeVictoria/Desktop/exigo-free-html5-creative-portfolio-template/index.html",
+		"/Users/FemmeVictoria/Desktop/git/projects/tester/config/database.yml",
+		"/Users/FemmeVictoria/Desktop/git/projects/beatles.rb",
+		"/Users/FemmeVictoria/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/FemmeVictoria/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/FemmeVictoria/Desktop/git/projects/solo_rails/app/assets/javascripts/application.js",
+		"/Users/FemmeVictoria/Library/Application Support/Sublime Text 3/Packages/User/HTML (Rails).sublime-settings",
+		"/Users/FemmeVictoria/Desktop/git/projects/solo_rails/app/assets/stylesheets/application.scss",
+		"/Users/FemmeVictoria/Desktop/git/projects/solo_rails/app/assets/stylesheets/movies.scss",
+		"/Users/FemmeVictoria/Desktop/git/projects/solo_rails/app/assets/stylesheets/reviews.scss",
+		"/Users/FemmeVictoria/Documents/watchandcode.html",
+		"/Users/FemmeVictoria/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/FemmeVictoria/Documents/watchandcode.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"HEAD",
+			"init",
+			"bootstrap",
+			"TicTacToe",
+			"});",
+			"start",
+			"index",
+			"# ",
+			"\n#",
+			"www",
+			"startups",
+			"investor",
+			"  <",
+			" \n",
+			"%>\n",
+			"</td>",
+			"></"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 33.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "about.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/main.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
